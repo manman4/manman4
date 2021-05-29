@@ -5,9 +5,6 @@
 
 
 <p align="left"> 
-  <a href="https://github.com/manman4/manman4/">
-    <img src="https://komarev.com/ghpvc/?username=manman4" alt="manman4" />
-  </a>
   <a href="https://github.com/manman4">
     <img height="20" src="https://img.shields.io/github/followers/manman4?label=follow&logo=github&style=flat" />
   </a>
