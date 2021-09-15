@@ -9,3 +9,18 @@
     <img height="20" src="https://img.shields.io/github/followers/manman4?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+## 📚 Language / Framework 
+- Python
+  - Web Framework (Django / Flask)
+  - Library (NumPy, Pandas, scikit-learn, TensorFlow, Keras, etc...)
+- Ruby
+  - Web Framework (Rails)
+- Go
+- HTML / CSS / SASS / SCSS
+  - CSS / UI Framework (Bootstrap, Vuetify)
+- JavaScript
+  - express, Vue.js / Nuxt.js / React.js / Next.js
+- TypeScript
+- SQL
+- VBA / VB Script
