@@ -10,6 +10,10 @@
   </a>
 </p>
 
+## 職歴
+
+ML エンジニア　2.5 years
+
 ## 📚 Language / Framework 
 - Python
   - Web Framework (Django / Flask)
