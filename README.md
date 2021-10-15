@@ -30,7 +30,6 @@ ML エンジニア　2.5 years
 - VBA / VB Script
 
 ## その他
-
 - スケジュール管理ツール
 　 　- Backlog (現職) <- Planner　や Azure Boards (前職) <- Redmine (前々職) 
 
