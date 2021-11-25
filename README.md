@@ -25,7 +25,6 @@ ML エンジニア　2.5 years
   - CSS / UI Framework (Bootstrap, Vuetify)
 - JavaScript
   - express, Vue.js / Nuxt.js / React.js / Next.js
-- TypeScript
 - SQL
 - VBA / VB Script
 
