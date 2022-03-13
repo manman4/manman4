@@ -12,7 +12,7 @@
 
 ## 職歴
 
-ML エンジニア　2.5 years
+ML エンジニア　3 years
 
 ## 📚 Language / Framework 
 - Python
