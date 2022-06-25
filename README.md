@@ -32,3 +32,5 @@ ML エンジニア　3 years
 - スケジュール管理ツール
   - Backlog (現職) <- Planner　や Azure Boards (前職) <- Redmine (前々職) 
 
+- BI
+  - Google Analytics
