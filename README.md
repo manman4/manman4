@@ -14,7 +14,7 @@
 
 AI Software Engineer 1 years
 
-ML Engineer　2.5 years
+ML Engineer 2.5 years
 
 ## 📚 Language / Framework 
 - Python
