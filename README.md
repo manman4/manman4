@@ -35,3 +35,5 @@ ML Engineer 2.5 years
   - Backlog (現職) <- Planner　や Azure Boards (前職) <- Redmine (前々職) 
 - BI
   - Google Analytics
+
+
