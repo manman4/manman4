@@ -1,11 +1,7 @@
 
 
 
-<p align="left"> 
-  <a href="https://github.com/manman4">
-    <img height="20" src="https://img.shields.io/github/followers/manman4?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+
 
 ## 職歴
 
