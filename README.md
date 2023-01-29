@@ -1,5 +1,5 @@
 
-[![manman4](https://github-profile-trophy.vercel.app/?username=manman4&row=2)](https://github.com/manman4/github-profile-trophy)
+[![manman4](https://github-profile-trophy.vercel.app/?username=manman4&column=2)](https://github.com/manman4/github-profile-trophy)
 
 
 
