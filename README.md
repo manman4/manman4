@@ -1,8 +1,4 @@
 
-[![manman4](https://github-profile-trophy.vercel.app/?username=manman4&column=4)](https://github.com/manman4/github-profile-trophy)
-
-
-
 ## 職歴
 
 AI Software Engineer 1.5 years
