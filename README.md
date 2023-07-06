@@ -1,7 +1,7 @@
 
 ## 職歴
 
-AI Software Engineer 1.5 years
+AI Software Engineer 2.0 years
 
 ML Engineer 2.5 years
 
