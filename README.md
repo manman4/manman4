@@ -1,4 +1,3 @@
-
 ## 職歴
 
 AI Software Engineer 2.0 years
