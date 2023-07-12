@@ -72,5 +72,3 @@ ML Engineer 2.5 years
   - Google Analytics
 
 
-
-
