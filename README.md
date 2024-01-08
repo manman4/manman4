@@ -19,7 +19,7 @@ ML Engineer 2.5 years
 - JavaScript
   - express, Vue.js / Nuxt.js / React.js / Next.js
 - SQL
-- VBA / VB Script
+- VBA 
 
 <table><tr><td valign="top" width="33%">
 
