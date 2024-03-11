@@ -1,7 +1,7 @@
 
 ## 職歴
 
-Data Scientist 0.5 years
+Data Scientist 1 years
 
 AI Software Engineer 2.0 years
 
