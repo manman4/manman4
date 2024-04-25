@@ -11,9 +11,9 @@ Hi. I'm manman4.
 
 Data Scientist 1 years
 
-AI Software Engineer 2.0 years
+AI Software Engineer 2 years
 
-ML Engineer 2.5 years
+ML Engineer 2 years
 
 ## 📚 Language / Framework 
 - Python
