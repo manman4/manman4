@@ -9,7 +9,7 @@ Hi. I'm manman4.
 
 ## 職歴
 
-Data Scientist 1 years
+Data Scientist 2 years
 
 AI Software Engineer 2 years
 
