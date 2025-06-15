@@ -6,6 +6,9 @@ Hi. I'm manman4.
 
 There are 160187935 total users in the region and you need at least 2435 followers to be on this list. 😭
 
+[Other](https://gitstar-ranking.com/manman4)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
