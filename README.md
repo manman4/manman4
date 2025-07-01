@@ -90,6 +90,6 @@ ML Engineer 2 years
 - BI
   - Google Analytics
 - AIコーディング
- - Copilot 個人的には一番初期だが、業務上は2025年に入ってから 
+  - Copilot 個人的には一番初期だが、業務上は2025年に入ってから 
 
 
