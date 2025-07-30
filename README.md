@@ -2,9 +2,7 @@ Hi. I'm manman4.
 
 [![committers.top badge](https://user-badge.committers.top/worldwide/manman4.svg)](https://user-badge.committers.top/worldwide/manman4)
 
-↑
 
-There are 160187935 total users in the region and you need at least 2435 followers to be on this list. 😭
 
 
 
