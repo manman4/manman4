@@ -1,6 +1,6 @@
 Hi. I'm manman4.
 
-## ranking
+## Ranking
 
 ### Commits
 
