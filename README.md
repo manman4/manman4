@@ -2,13 +2,7 @@ Hi. I'm manman4.
 
 ## Ranking
 
-### Commits
 
-[![committers.top badge](https://user-badge.committers.top/worldwide/manman4.svg)](https://user-badge.committers.top/worldwide/manman4)
-
-### Contributions
-
-[![committers.top badge](https://user-badge.committers.top/worldwide_public/manman4.svg)](https://user-badge.committers.top/worldwide_public/manman4)
 
 ### All
 
@@ -101,5 +95,6 @@ ML Engineer 2 years
   - Google Analytics
 - AIコーディング
   - Copilot 個人的には一番初期からだが、業務上は2025年に入ってから 
+
 
 
