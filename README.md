@@ -1,6 +1,5 @@
 Hi. I'm manman4.
 
-[![](https://raw.githubusercontent.com/manman4/manman4/master/profile-summary-card-output/transparent/0-profile-details.svg)]
 
 ## Ranking
 
@@ -101,6 +100,7 @@ ML Engineer 2 years
   - Google Analytics
 - AIコーディング
   - Copilot 個人的には一番初期からだが、業務上は2025年に入ってから 
+
 
 
 
