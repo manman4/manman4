@@ -1,4 +1,11 @@
-Hi. I'm manman4.
+
+
+<h1 align="center">Hi, I'm manman4</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Engineer;Python+|+Ruby+|+etc;AI+%26+Development+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
+</h3>
 
 
 ## Ranking
@@ -100,6 +107,7 @@ ML Engineer 2 years
   - Google Analytics
 - AIコーディング
   - Copilot 個人的には一番初期からだが、業務上は2025年に入ってから 
+
 
 
 
