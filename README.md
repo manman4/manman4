@@ -16,9 +16,7 @@
 
 
 
-### World Wide
 
-[![committers.top badge](https://user-badge.committers.top/worldwide_private/manman4.svg)](https://user-badge.committers.top/worldwide_private/manman4)
 
 
 
@@ -107,6 +105,7 @@ ML Engineer 2 years
   - Google Analytics
 - AIコーディング
   - Copilot 個人的には一番初期からだが、業務上は2025年に入ってから 
+
 
 
 
