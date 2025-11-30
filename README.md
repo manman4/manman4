@@ -100,11 +100,12 @@ ML Engineer 2 years
 
 ## その他 
 - スケジュール管理ツール
-  - Backlog (現職) <- Planner　や Azure Boards (前職) <- Redmine (前々職) 
+  - Notion や Backlog (現職) <- Planner　や Azure Boards (前職) <- Redmine (前々職) 
 - BI
   - Google Analytics
 - AIコーディング
   - Copilot 個人的には一番初期からだが、業務上は2025年に入ってから 
+
 
 
 
