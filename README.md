@@ -24,47 +24,12 @@
 
 ## Tech Stack
 
-### Frontend
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,bootstrap,css,sass,html,js,electron&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,bootstrap,css,sass,html,js,electron&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,bootstrap,css,sass,html,js,electron&theme=dark" alt="Frontend Skills" />
-  </picture>
-</p>
-
-> Vuetify, Chart.js
-
-### Backend
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ruby,rails,django,flask,go,nodejs,express,mysql&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ruby,rails,django,flask,go,nodejs,express,mysql&theme=light" />
-    <img src="https://skillicons.dev/icons?i=py,ruby,rails,django,flask,go,nodejs,express,mysql&theme=dark" alt="Backend Skills" />
-  </picture>
-</p>
-
-> SQL, VBA
-
-### AI / ML
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML Skills" />
-  </picture>
-</p>
-
-> Keras, NumPy, Pandas, scikit-learn
-
-### DevOps
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,nginx,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,nginx,git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git&theme=dark" alt="DevOps Skills" />
-  </picture>
-</p>
+| Category | Skills |
+|----------|--------|
+| **Frontend** | HTML, CSS, SASS/SCSS, JavaScript, React.js, Vue.js, Next.js, Nuxt.js, Bootstrap, Vuetify, Electron, Chart.js |
+| **Backend** | Python (Django, Flask), Ruby (Rails), Go, Node.js (Express), MySQL, SQL, VBA |
+| **AI / ML** | TensorFlow, Keras, PyTorch, OpenCV, NumPy, Pandas, scikit-learn |
+| **DevOps** | Linux, Docker, Nginx, Git |
 
 ---
 
