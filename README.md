@@ -7,7 +7,7 @@
 
 <p align="center">
   Data Scientist / AI Software Engineer / ML Engineer<br/>
-  6+ years of experience in AI & Software Development
+  7 years of experience in AI & Software Development
 </p>
 
 ---
@@ -16,9 +16,9 @@
 
 | Role | Period |
 |------|--------|
-| Data Scientist | 2 years |
+| Data Scientist | 2.5 years |
 | AI Software Engineer | 2 years |
-| ML Engineer | 2 years |
+| ML Engineer | 2.5 years |
 
 ---
 
@@ -40,3 +40,4 @@
 | Project Management | Notion, Backlog, Azure Boards, Redmine |
 | BI | Google Analytics |
 | AI Coding | GitHub Copilot |
+
